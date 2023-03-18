@@ -62,9 +62,9 @@ show_excerpt: true
 show_date: true
 
 #footer
-index_page: http://www.fooying.com
-main_site: http://www.fooying.com
-github: https://github.com/fooying
+index_page: https://github.com/guiyewang
+main_site: https://github.com/guiyewang
+github: https://github.com/guiyewang
 links_url: /links
 
 # 友情链接
