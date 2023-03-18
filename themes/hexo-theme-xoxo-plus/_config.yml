@@ -73,9 +73,9 @@ links:
 
 # project
 projects:
-  hexo-theme-xoxo-plus:
-    url: https://github.com/fooying/hexo-theme-xoxo-plus
-    descript: a hexo theme
+  博客:
+    url: https://guiyewang.github.io/
+    descript: 博客
 
 # activitys
 activitys:
